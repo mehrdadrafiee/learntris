@@ -1,5 +1,6 @@
 The Learntris Challenge
 =======================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mehrdadrafiee/learntris?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repository contains a series of automated tests that
 will guide you through implementing your own version of
